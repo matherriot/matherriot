@@ -7,7 +7,7 @@ Full stack web development student
 *   🌍  I'm based in France, Savoie
 *   🖥️  See my portfolio at [Yidhra](http://mat.yidhra.fr)
 *   ✉️  You can contact me at [yidhra@tuta.io](mailto:yidhra@tuta.io)
-*   🚀  I'm currently working on [my next exam](http://github.com/matherriot/module-1-eval)
+*   🚀  I'm currently working on ...
 *   🧠  I'm learning the basics right now..
 *   🤝  I'm open to collaborating on a next day.
 *   ⚡  Trust, but verify.
